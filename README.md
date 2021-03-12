@@ -5,7 +5,7 @@
 
 ### Sobre mim
 
-- Formado em Engenharia Civil, descobri recentemente a área de desenvolvimento e me apaixonei!
+- Formado em Engenharia Civil, descobri recentemente a programação e me apaixonei!
 - Desenvolvedor iniciante, tentando aprender mais todos os dias.
 - Pretendo seguir nessa carreira profissionalmente, e estou me esforçando para isto.
 - Atualmente focando os estudos em .NET C#, mas em breve pretendo aprender outras linguagens.
