@@ -10,7 +10,7 @@
 * Cadete na [42](https://www.42.fr) [São Paulo](https://www.42sp.org.br)
 * Atualmente aprendendo C
 
-### Projetos 42SP
+## Projetos 42SP
 
 ![](./icons/libftm.png)
 ![](./icons/get_next_linem.png)
