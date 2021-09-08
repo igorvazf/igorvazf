@@ -13,3 +13,4 @@
 
 [![](./icons/libftm.png)](https://github.com/igorvazf/libft)
 [![](./icons/get_next_linem.png)](https://github.com/igorvazf/get_next_line)
+[![](./icons/ft_printfe.png)](https://github.com/igorvazf/ft_printf)
