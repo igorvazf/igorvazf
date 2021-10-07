@@ -15,4 +15,4 @@
 [![](./icons/get_next_linem.png)](https://github.com/igorvazf/get_next_line)
 [![](./icons/ft_printfe.png)](https://github.com/igorvazf/ft_printf)
 [![](./icons/born2beroote.png)](https://github.com/igorvazf/born2beroot)
-
+[![](./icons/so_longm.png)](https://github.com/igorvazf/so_long)
