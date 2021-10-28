@@ -7,7 +7,8 @@
 
 * Formado em Engenharia Civil
 * Estudante de Engenharia de Software na [42](https://www.42.fr) [São Paulo](https://www.42sp.org.br)
-* Atualmente aprendendo C
+* Desenvolvedor .NET Jr na Eztech
+* Atualmente aprendendo C e C#
 
 ## Projetos 42SP
 
