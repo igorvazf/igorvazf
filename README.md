@@ -18,3 +18,4 @@
 [![](./icons/born2beroote.png)](https://github.com/igorvazf/born2beroot)
 [![](./icons/so_longm.png)](https://github.com/igorvazf/so_long)
 [![](./icons/minitalkm.png)](https://github.com/igorvazf/minitalk)
+[![](./icons/push_swape.png)](https://github.com/igorvazf/push_swap)
