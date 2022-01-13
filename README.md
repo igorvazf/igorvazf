@@ -19,3 +19,4 @@
 [![](./icons/so_longm.png)](https://github.com/igorvazf/so_long)
 [![](./icons/minitalkm.png)](https://github.com/igorvazf/minitalk)
 [![](./icons/push_swape.png)](https://github.com/igorvazf/push_swap)
+[![](./icons/minishelle.png)](https://github.com/igorvazf/minishell)
