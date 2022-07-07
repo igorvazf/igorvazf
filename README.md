@@ -21,3 +21,4 @@
 [![](./icons/push_swape.png)](https://github.com/igorvazf/push_swap)
 [![](./icons/minishelle.png)](https://github.com/igorvazf/minishell)
 [![](./icons/philosopherse.png)](https://github.com/igorvazf/philosophers)
+[![](./icons/netpracticee.png)](https://github.com/igorvazf/netpractice)
