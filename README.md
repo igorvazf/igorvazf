@@ -2,13 +2,43 @@
 
 <a href="https://www.linkedin.com/in/igorvazf" target="_blank" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorvazf" /></a>
+<a href="mailto:igorv1286@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
 
 ### Sobre mim
 
 * Formado em Engenharia Civil
 * Estudante de Engenharia de Software na [42](https://www.42.fr) [São Paulo](https://www.42sp.org.br)
 * Engenheiro de Software Junior na [EZTech](https://eztech.ind.br/)
-* Atualmente aprendendo C e C#
+
+## Tecnologias que utilizo
+<div style="display: flex;">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 50px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 50px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 50px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 50px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="width: 50px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 50px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/.NET">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="width: 50px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/AngularJS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="width: 50px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/Ionic_(mobile_app_framework)">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" style="width: 50px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width: 50px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/PostgreSQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" style="width: 50px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 50px;" /></a>
+</div>
+
 
 ## Projetos 42SP
 
