@@ -1,4 +1,4 @@
-# Olá, eu sou o Igor! :wave:
+# :wave: Olá, eu sou o Igor!
 
 <a href="https://www.linkedin.com/in/igorvazf" target="_blank" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorvazf" /></a>
@@ -9,9 +9,9 @@
 
 * Formado em Engenharia Civil
 * Estudante de Engenharia de Software na [42](https://www.42.fr) [São Paulo](https://www.42sp.org.br)
-* Engenheiro de Software Junior na [EZTech](https://eztech.ind.br/)
+* Desenvolvedor .NET na [EZTech](https://eztech.ind.br/)
 
-## Tecnologias que utilizo
+## :computer: Tecnologias que utilizo
 <div style="display: flex;">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 50px;" /></a>
@@ -38,9 +38,9 @@
   <a href="https://en.wikipedia.org/wiki/Git">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 50px;" /></a>
 </div>
+<br />
 
-
-## Projetos 42SP
+## :books: Projetos 42SP
 
 [![](./icons/libftm.png)](https://github.com/igorvazf/libft)
 [![](./icons/get_next_linem.png)](https://github.com/igorvazf/get_next_line)
