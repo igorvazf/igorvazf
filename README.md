@@ -14,29 +14,29 @@
 ## :computer: Tecnologias que utilizo
 <div style="display: flex;">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 50px;" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 50px;" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/TypeScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 50px;" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 50px;" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="width: 50px;" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="HTML" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 50px;" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/.NET">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="width: 50px;" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/AngularJS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="width: 50px;" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="AngularJS" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/Ionic_(mobile_app_framework)">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" style="width: 50px;" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" title="Ionic" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width: 50px;" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="ReactJS" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/PostgreSQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" style="width: 50px;" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 50px;" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" style="width: 50px;" /></a>
 </div>
 <br />
 
