@@ -1,10 +1,5 @@
 # :wave: Olá, eu sou o Igor!
 
-<a href="https://www.linkedin.com/in/igorvazf" target="_blank" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorvazf" /></a>
-<a href="mailto:igorv1286@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
-
 ### Sobre mim
 
 * Formado em Engenharia Civil
@@ -17,8 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" style="width: 50px;" /></a>
-  <a href="https://en.wikipedia.org/wiki/TypeScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/HTML5">
@@ -27,12 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/.NET">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET" style="width: 50px;" /></a>
-  <a href="https://en.wikipedia.org/wiki/AngularJS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="AngularJS" style="width: 50px;" /></a>
-  <a href="https://en.wikipedia.org/wiki/Ionic_(mobile_app_framework)">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" title="Ionic" style="width: 50px;" /></a>
-  <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="ReactJS" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/PostgreSQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" style="width: 50px;" /></a>
   <a href="https://en.wikipedia.org/wiki/Git">
