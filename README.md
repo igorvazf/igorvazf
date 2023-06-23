@@ -2,9 +2,8 @@
 
 ### Sobre mim
 
-* Formado em Engenharia Civil
-* Estudante de Engenharia de Software na [42](https://www.42.fr) [São Paulo](https://www.42sp.org.br)
-* Desenvolvedor .NET na [EZTech](https://eztech.ind.br/)
+Sou um desenvolvedor fullstack com foco no backend. Possuo experiência com desenvolvimento de sistemas web utilizando, principalmente, C#, ASP.NET, .NET Core e PostgreSQL. <br>
+Atualmente trabalhando na [EZTech](https://eztech.ind.br/), atuando em projetos envolvendo criação e manutenção de dashboards e APIs.
 
 ## :computer: Tecnologias que utilizo
 <div style="display: flex;">
@@ -27,7 +26,7 @@
 </div>
 <br />
 
-## :books: Projetos 42SP
+## :books: Projetos [42](https://www.42.fr)[SP](https://www.42sp.org.br)
 
 [![](./icons/libftm.png)](https://github.com/igorvazf/libft)
 [![](./icons/get_next_linem.png)](https://github.com/igorvazf/get_next_line)
