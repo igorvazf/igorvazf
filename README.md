@@ -2,8 +2,7 @@
 
 ### Sobre mim
 
-Sou um desenvolvedor fullstack com foco no backend. Possuo experiência com desenvolvimento de sistemas web utilizando, principalmente, C#, ASP.NET, .NET Core e PostgreSQL. <br>
-Atualmente trabalhando na [EZTech](https://eztech.ind.br/), atuando em projetos envolvendo criação e manutenção de dashboards e APIs.
+Desenvolvedor fullstack com foco no backend. Possuo experiência com desenvolvimento de sistemas web utilizando, principalmente, C#, ASP.NET, .NET Core e PostgreSQL. <br>
 
 ## :computer: Tecnologias que utilizo
 <div style="display: flex;">
